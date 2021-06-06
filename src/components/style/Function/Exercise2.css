@@ -1,0 +1,44 @@
+.subsricbe-text {
+    background-color: skyblue;
+}
+
+.subsricbe-text h1 {
+    font-weight: 300;
+    font-size: 30px;
+    letter-spacing: -1.2px;
+    margin: 15px auto;
+}
+.subsricbe-text p {
+    padding: 15px 0;
+    font-size: 15px;
+}
+
+.input-user-wrapper {
+    display: flex;
+    justify-content: space-between;
+    width: 75%;
+    margin: 20px auto;
+    flex-wrap: wrap;
+}
+.input-user-wrapper input {
+    width: 120px;
+    border: none;
+    border-radius: 2px;
+    height: 25px;
+}
+.btn-wrapper {
+    width: 50%;
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.btn-wrapper button {
+    background-color: rgb(255, 86, 86);
+    width: 175px;
+    color: #fff;
+    padding: 5px;
+    border: none;
+    border-radius: 2px;
+    font-size: 12px;
+}

@@ -1,0 +1,27 @@
+h1 {
+    color: #000;
+    font-size: 20px;
+}
+.card-wrapper {
+    border: 2px solid grey;
+    padding: 10px;
+    margin: auto;
+    width: 95%;
+    border-radius: 10px;
+}
+
+.tag-logo-wrapper {
+    margin: 20px auto;
+}
+
+.img-technologies-wrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: auto;
+}
+
+.img-technologies-wrapper img {
+    width: 100px;
+}
